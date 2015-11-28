@@ -181,7 +181,9 @@ p {
 }
 
 .navigation-bar.sticky {
-  border-bottom: 4px solid #2e9dff;
+  border-color: #69b9ff #2e9dff #2e9dff;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
 }
 
 .navigation-menu {
@@ -293,7 +295,9 @@ p {
 .hero-section.centered {
   padding-top: 130px;
   padding-bottom: 130px;
-  border-bottom: 4px solid #69b9ff;
+  border-color: #69b9ff;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
   background-image: -webkit-linear-gradient(rgba(46, 157, 255, 0.49), rgba(46, 157, 255, 0.2)), url('../images/photo-1416359658663-73a3834895eb.jpg');
   background-image: linear-gradient(rgba(46, 157, 255, 0.49), rgba(46, 157, 255, 0.2)), url('../images/photo-1416359658663-73a3834895eb.jpg');
   background-position: 0% 0%, 50% 50%;
