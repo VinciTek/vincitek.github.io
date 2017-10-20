@@ -146,8 +146,8 @@ p {
 }
 
 .navigation-link {
-  padding-right: 18px;
-  padding-left: 18px;
+  padding-right: 17px;
+  padding-left: 17px;
   -webkit-transition: all 300ms ease-in-out;
   transition: all 300ms ease-in-out;
   color: #676770;
